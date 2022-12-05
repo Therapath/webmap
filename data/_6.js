@@ -1,0 +1,1 @@
+var json__6 = {"type":"FeatureCollection","name":"_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nam_T":"จุดสกัดกบาลกะไบ","X E":"440753","Y N":"1590236","Lat N":14.3837,"Long E":104.4505},"geometry":{"type":"Point","coordinates":[104.450453126311359,14.383728195349454]}}]}
